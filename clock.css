@@ -7,7 +7,7 @@ body {
 }
 
 main {
-    
+
     width: 100vw;
     height: 100vh;
     background: #101010;
@@ -29,10 +29,10 @@ p#output {
     font-size: 60px;
     font-weight: bolder;
     word-spacing: 20px;
-    border: 1px solid black;
+    border: 1px solid #000000;
     color: green;
     padding: 10px;
-    box-shadow: 10px 10px 10px black;
+    box-shadow: 10px 10px 10px #000000;
     border-radius: 10px;
     background-color: #888888;
     max-width: 50%;
@@ -47,9 +47,9 @@ p#output {
 footer {
     height: 20vh;
     width: 100vw;
-    border-top: 1px solid black;
+    border-top: 1px solid;
     margin: 0;
-    background: black;
+    background: #000000;
 }
 
 footer p {
